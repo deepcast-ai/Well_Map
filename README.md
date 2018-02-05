@@ -1,2 +1,13 @@
+
 # Well_Map
-Create your own map utilizing Bohek’s Tiles and Glyphs 
+Created by [DeepCast.ai](https://deepcast.ai/).
+
+Annie Evans February 2018 
+
+
+
+The code is repeated in to files:
+
+* A jupyter notebook:  Well_Map/src/Well_Map.ipynb
+* A python file:       Well_Map/src/Well_Map.py
+
